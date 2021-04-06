@@ -146,7 +146,7 @@ const Info = styled(InfoOutlinedIcon)`
   margin-left: 10px;
 `;
 const MessageContainer = styled.div`
-  display: flex;
-
+ display: flex;
   flex-direction: column;
+  overflow-y: scroll;
 `;
