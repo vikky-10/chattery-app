@@ -54,9 +54,8 @@ function App() {
 
 export default App;
 const Container = styled.div`
-  width: 100%;
+ width: 100%;
   height: 100vh;
-
   display: grid;
   grid-template-rows: 38px minmax(0, 1fr);
 `;
